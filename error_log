@@ -1,0 +1,97 @@
+[10-Sep-2021 07:29:19 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/wectang/public_html/ofiles/header.php:80) in /home2/wectang/public_html/ofiles/Auth.php on line 3
+[10-Sep-2021 07:29:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/wectang/public_html/ofiles/header.php:80) in /home2/wectang/public_html/ofiles/Auth.php on line 3
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home2/wectang/public_html/ofiles/Process.php on line 17
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 26
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home2/wectang/public_html/ofiles/Process.php on line 27
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 33
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 369
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/wectang/public_html/ofiles/Process.php on line 371
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 377
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 381
+[12-Sep-2021 17:19:19 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 382
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 17
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 17
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 26
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 27
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 27
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 33
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 369
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/wectang/public_html/ofiles/Process.php on line 371
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 377
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 381
+[21-Sep-2021 00:39:21 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 382
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 17
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 17
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 26
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 27
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home2/wectang/public_html/ofiles/Process.php on line 27
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 33
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 35
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 369
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/wectang/public_html/ofiles/Process.php on line 371
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 377
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 381
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/ofiles/Process.php on line 382
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/adlog.php on line 6
+[21-Sep-2021 00:39:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/wectang/public_html/adlog.php on line 7
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Undefined index: id in /home2/wectang/public_html/letter.php on line 6
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 14:44:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 14:44:56 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Undefined index: id in /home2/wectang/public_html/letter.php on line 6
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 14:45:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 14:45:31 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:14 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:15 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:16 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Trying to get property 'course' of non-object in /home2/wectang/public_html/letter.php on line 9
+[01-Oct-2021 21:51:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/wectang/public_html/admission/auth/Process.php on line 341
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Trying to get property 'surname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Trying to get property 'firstname' of non-object in /home2/wectang/public_html/letter.php on line 23
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Undefined offset: 0 in /home2/wectang/public_html/letter.php on line 24
+[01-Oct-2021 21:51:17 UTC] PHP Notice:  Trying to get property 'DepartmentList' of non-object in /home2/wectang/public_html/letter.php on line 24

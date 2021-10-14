@@ -2,7 +2,7 @@
 
     Class Post{
         private $conn;
-        private $table='adminusers';
+        private $table='adminuser';
 
         //post properties
         public $id;

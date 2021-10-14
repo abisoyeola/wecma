@@ -24,7 +24,7 @@
         );
     }else{
         echo(
-            json_encode(array('message'=>'post created'))
+            json_encode(array('message'=>'post not created'))
         );
     }
     
